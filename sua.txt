@@ -1,0 +1,5 @@
+sửa file .env cấu hình lại database
+sửa file modules/module.blade.php: thêm thanh tìm kiếm
+thêm function getSearch trong file ProductsController
+tạo view search.blade.php
+tạo route search
